@@ -1,2 +1,6 @@
 # hello-world
-demo beginner repository
+
+just started off in github, feels nice...
+
+lets see, where we end up...
+
